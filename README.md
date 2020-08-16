@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋       
+
+![](https://komarev.com/ghpvc/?username=AniketRele&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
 An enthusiast in the field of Machine Learning and Data Science
-
 
 - 🌱 I’m currently learning ...Machine Learning/ Deep Learning
 
