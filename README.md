@@ -2,7 +2,6 @@
 
 An enthusiast in the field of Machine Learning and Data Science
 
-![](https://komarev.com/ghpvc/?username=AniketRele&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
 - 🌱 I’m currently learning ...Machine Learning/ Deep Learning
 
