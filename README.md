@@ -13,7 +13,7 @@
 </a>
 </p>
 
-[![GitHub Badge](https://img.shields.io/badge/-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/AniketRele)](https://github.com/AniketRele) [![Gmail Badge](https://img.shields.io/badge/d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:aniketrele98@gmail.com)](mailto:aniketrele98@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/AniketRele)](https://github.com/AniketRele) [![Gmail Badge](https://img.shields.io/badge/-@-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:aniketrele98@gmail.com)](mailto:aniketrele98@gmail.com)
 
 
 ### Follow me
