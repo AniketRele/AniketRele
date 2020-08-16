@@ -1,10 +1,10 @@
-### Hi there 👋       
+### Hi there 👋       ![GitHub followers](https://img.shields.io/github/followers/AniketRele?style=social)
 
 ![](https://komarev.com/ghpvc/?username=AniketRele&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
-An enthusiast in the field of Machine Learning and Data Science
+An enthusiast in the field of Machine Learning and Data Science from Mumbai, Maharashtra, India.
 
-- 🌱 I’m currently learning ...Machine Learning/ Deep Learning
+- 🌱 I’m currently learning and working on Machine Learning/ Deep Learning projects.
 
 
 ### Follow me
