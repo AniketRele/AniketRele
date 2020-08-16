@@ -13,7 +13,7 @@
 </a>
 </p>
 
-[![GitHub Badge](https://img.shields.io/badge/-@AniketRele-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/AniketRele)](https://github.com/AniketRele)
+[![GitHub Badge](https://img.shields.io/badge/-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/AniketRele)](https://github.com/AniketRele)
 
 
 ### Follow me
