@@ -22,7 +22,7 @@ An enthusiast in the field of Machine Learning and Data Science
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?AniketRele" frameborder="0"></iframe>
+<code><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?AniketRele" frameborder="0"></iframe></code>
 
 ### Top Languages
 
