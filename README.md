@@ -4,7 +4,8 @@
 
 An enthusiast in the field of Machine Learning and Data Science from Mumbai, Maharashtra, India.
 
-- 🌱 I’m currently learning and working on Machine Learning/ Deep Learning projects.
+- 🌱 I’m currently as an Analyst in Marketing domain.
+- 🌱 Learning and working on Machine Learning/ Deep Learning projects.
 
 
 ### Follow me
